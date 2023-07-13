@@ -1,4 +1,4 @@
-package com.rishiz.todoo;
+package com.rishiz.todo;
 
 import androidx.appcompat.app.AppCompatActivity;
 
@@ -21,6 +21,8 @@ public class EditNote extends AppCompatActivity {
         setContentView(R.layout.activity_edit_note);
 
         Intent intent=getIntent();
+
+        linearLayout=findViewById(R.id.btn_holder);
         edtDescription=findViewById(R.id.edt_edit_description);
         edtTitle=findViewById(R.id.edt_edit_title);
         btnCancel=findViewById(R.id.btnCancel);

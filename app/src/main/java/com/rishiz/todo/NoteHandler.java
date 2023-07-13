@@ -1,4 +1,4 @@
-package com.rishiz.todoo;
+package com.rishiz.todo;
 
 import android.content.ContentValues;
 import android.content.Context;
@@ -6,7 +6,6 @@ import android.database.Cursor;
 import android.database.sqlite.SQLiteDatabase;
 
 import java.util.ArrayList;
-import java.util.Currency;
 
 public class NoteHandler extends DatabaseHelper {
     public NoteHandler(Context context){

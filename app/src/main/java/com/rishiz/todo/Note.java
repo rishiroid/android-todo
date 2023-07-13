@@ -1,4 +1,4 @@
-package com.rishiz.todoo;
+package com.rishiz.todo;
 
 public class Note {
     private int id;

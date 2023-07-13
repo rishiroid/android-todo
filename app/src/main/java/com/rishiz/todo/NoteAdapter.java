@@ -1,4 +1,4 @@
-package com.rishiz.todoo;
+package com.rishiz.todo;
 
 import android.content.Context;
 import android.transition.TransitionManager;
@@ -11,7 +11,7 @@ import android.widget.TextView;
 import androidx.annotation.NonNull;
 import androidx.recyclerview.widget.RecyclerView;
 
-import com.rishiz.todoo.R;
+import com.rishiz.todo.R;
 
 import java.util.ArrayList;
 

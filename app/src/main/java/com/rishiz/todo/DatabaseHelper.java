@@ -1,4 +1,4 @@
-package com.rishiz.todoo;
+package com.rishiz.todo;
 
 import android.content.Context;
 import android.database.sqlite.SQLiteDatabase;
