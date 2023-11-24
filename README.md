@@ -1,2 +1,1 @@
-# android-todo
-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
+# Todo Android Note app
