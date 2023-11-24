@@ -1,7 +1,7 @@
 # Todo Android Note app
 A To-Do Note App is a practical and versatile application that helps users organize tasks, set reminders, and keep track of important notes.
 [For a detailed explanation of the code and app, visit here.](https://rishiz.net/to-do-note-app-in-android-sqlitedatabase/)
-![](https://youtu.be/-Zuqn_m37W4)
+![Overview](https://youtu.be/-Zuqn_m37W4)
 ## Index ##
 1.[UI](#UI)
   [ImageButton Shape](#ImageButton Shape)
